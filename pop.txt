@@ -1,4 +1,4 @@
-  nzmale90	nzfemale90	nzmale00	nzfemale00	usmale90	usfemale90	usmale00	usfemale00
+agegroup  nzmale90	nzfemale90	nzmale00	nzfemale00	usmale90	usfemale90	usmale00	usfemale00
 preschool	1410	1347	1450	1383	9646	9204	9639	9227
 school	4102	3928	4263	4066	27197	25857	30555	29043
 working	8096	8108	9732	9655	62702	63009	68664	69599
